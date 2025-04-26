@@ -54,7 +54,7 @@ Here’s a clean and simple **"How to Install"** section you can add for your **
 
 3. **Clone the NetVulnX repository:**
    ```bash
-   git clone https://github.com/YourUsername/NetVulnX.git
+   git clone https://github.com/WWH-Solo/NetVulnX.git
    ```
 
 4. **Navigate into the NetVulnX directory:**
